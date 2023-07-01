@@ -33,3 +33,7 @@ Fine-tuning and evaluating large language models
 - Define the term Parameter-efficient Fine Tuning (PEFT)
 - Explain how PEFT decreases computational cost and overcomes catastrophic forgetting
 - Explain how fine-tuning with instructions using prompt datasets can increase LLM performance on one or more 
+
+[Lab 2 - Fine-tune a generative AI model for dialogue summarization](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs/blob/main/Week-2/Lab_2_fine_tune_generative_ai_model.ipynb)
+
+[Week 2 quiz](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs/blob/main/Week-2/Week-2_Quiz.md)
