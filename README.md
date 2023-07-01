@@ -23,3 +23,13 @@ Generative AI use cases, project lifecycle, and model pre-training
 [Lab 1 - Generative AI Use Case: Summarize Dialogue](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs/blob/main/Week-1/Lab_1_summarize_dialogue.ipynb)
 
 [Week 1 quiz](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs/blob/main/Week-1/Week-1_Quiz.md)
+
+## Week 2
+Fine-tuning and evaluating large language models
+
+### Learning Objectives
+- Describe how fine-tuning with instructions using prompt datasets can improve performance on one or more tasks
+- Define catastrophic forgetting and explain techniques that can be used to overcome it
+- Define the term Parameter-efficient Fine Tuning (PEFT)
+- Explain how PEFT decreases computational cost and overcomes catastrophic forgetting
+- Explain how fine-tuning with instructions using prompt datasets can increase LLM performance on one or more 
