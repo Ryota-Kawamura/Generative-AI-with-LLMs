@@ -37,3 +37,12 @@ Fine-tuning and evaluating large language models
 [Lab 2 - Fine-tune a generative AI model for dialogue summarization](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs/blob/main/Week-2/Lab_2_fine_tune_generative_ai_model.ipynb)
 
 [Week 2 quiz](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs/blob/main/Week-2/Week-2_Quiz.md)
+
+## Week 3
+Reinforcement learning and LLM-powered applications
+
+### Learning Objectives
+- Describe how RLHF uses human feedback to improve the performance and alignment of large language models
+- Explain how data gathered from human labelers is used to train a reward model for RLHF
+- Define chain-of-thought prompting and describe how it can be used to improve LLMs reasoning and planning abilities
+- Discuss the challenges that LLMs face with knowledge cut-offs, and explain how information retrieval and augmentation techniques can overcome these challenges
