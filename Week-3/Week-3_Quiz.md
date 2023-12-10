@@ -43,7 +43,7 @@ Is this true or false?
 **8.** What is a correct definition of Program-aided Language (PAL) models?
 - [x] Models that offload computational tasks to other programs.
 - [ ] Models that integrate language translation and coding functionalities.
-- [ ] Models that assist programmers in writing code through natural language interfaces.
+- [x] Models that assist programmers in writing code through natural language interfaces.
 - [ ] Models that enable automatic translation of programming languages to human languages.
 
 **9.** Which of the following best describes the primary focus of ReAct?
